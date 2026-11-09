@@ -90,21 +90,6 @@ QR 코드가 연결하는 웹 콘텐츠의 링크와 이벤트를 분석하여 �
 - **샌드박스 기반 정적 분석을 통한 탈중앙 온디바이스 QR 피싱 탐지 프레임워크**<br>
   **우지안**, 이승민, 박인석, 이세종 · 한국컴퓨터정보학회 동계학술대회, Jan. 2026 · **우수논문상**
 
-### Submitted Manuscripts
-
-아래 논문은 투고 중인 원고입니다.
-
-- **Learning to See LWE: Vision-Based Secret Recovery from Image-Like Cryptographic Representations**<br>
-  **Jian Woo**, Seungmin Lee, Seonghyuk Jo, Myeongjun Jin, and Sejong Lee<br>
-  Submitted to NeurIPS 2026
-
-- **Optical-Digital Perception Gaps as Input-Integrity Vulnerabilities in VLM-Based Smart Glasses**<br>
-  Myeongjun Jin, **Jian Woo**, Seonghyuk Jo, Seungmin Lee, and Sejong Lee<br>
-  Submitted to NeurIPS 2026
-
-- **Efficient Key Recovery in HQC through Learned Secret Ranking**<br>
-  **Jian Woo**, Seungmin Lee, Inseok Park, and Sejong Lee<br>
-  Submitted to NDSS 2027
 
 </details>
 
